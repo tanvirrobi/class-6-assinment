@@ -1,0 +1,80 @@
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script:wght@400;500;600&display=swap');
+
+
+
+*{
+    margin: 0px;
+    padding: 0px;
+}
+ .fix-width{
+    width: 600px;
+    
+    margin: auto;
+    height: auto;
+ }
+
+.heading h2{
+    font-size: 20px;
+    text-align: center;
+    color: rgb(185, 43, 90);
+    background-color: rgb(65, 15, 201);
+
+}
+.heading sub{
+    color: rgb(252, 195, 8);
+}
+.heading p{
+    text-align: center;
+    color: rgb(233, 225, 232);
+    background: rgb(22, 145, 73);
+    font-style: italic;
+}
+img{
+   max-width: 100%;
+} 
+.png img {
+    height: 180px;
+    width: 600px;
+    background-color: red;
+    margin-bottom: -5px;
+}
+.about-item h1{
+    background:#834646 ;
+    font-style: italic;
+    
+}
+.about-item{
+    text-align: center;
+}
+.about-item h1{}
+.about-item p{}
+
+
+.service h1{
+    background-color: #297a48;
+    text-align: center;
+    font-size: 45px;
+    font-family: 'Dancing Script', cursive;
+}
+.service-item{
+    text-align: center;
+}
+.service-item h2{
+    font-size:30px;
+}
+.service-item p{}
+.form{
+    text-align: center;
+}
+.contact{}
+.contact h1{
+    text-align: center;
+    background:#0d6efd ;
+    margin: 10px 0px;
+}
+
+
+fieldset{
+    width: 300px;
+    margin: auto;
+}
